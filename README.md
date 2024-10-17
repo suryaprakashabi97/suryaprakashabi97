@@ -2,8 +2,6 @@ Hi ! 🙏 My name is SURYAPRAKASH <a href="https://github.com/suryaprakashabi97"
 src="https://img.shields.io/github/followers/suryaprakashabi97?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 =====================================================================================================================================
 
-## Embedded Electronics Portfolio
-
 Welcome to my portfolio! I am an embedded electronics freelancer with a passion for designing and developing innovative solutions. Here, you'll find a collection of my projects showcasing my skills and experience in embedded systems, microcontroller programming, and electronics design.
 
 ## Table of Contents
