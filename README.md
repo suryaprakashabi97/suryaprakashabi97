@@ -75,7 +75,7 @@ src="https://img.shields.io/github/followers/suryaprakashabi97?logo=github&style
 ## Contact
 Feel free to reach out to me for collaborations or freelance opportunities:
 - **Email:** surya1.galaxy@gmail.com
-- **LinkedIn:** Your LinkedIn Profile
+- **LinkedIn:** https://www.linkedin.com/in/suryaprakashhw
 - **GitHub:** https://github.com/suryaprakashabi97
 <!-- * 🖥️  See my portfolio at [---](http://codewithvetri.web.app/) -->
 <!-- * 🌍  I'm based in India -->
