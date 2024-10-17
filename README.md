@@ -40,21 +40,15 @@ src="https://img.shields.io/github/followers/suryaprakashabi97?logo=github&style
 
 ## 👩🏻‍💻 Projects
 
-### Project 1: Smart Home Automation System
-- **Description:** Developed a smart home automation system using STM32 microcontrollers and various sensors.
-- **Technologies Used:** STM32, FreeRTOS, MQTT, PCB Design
-- **Repository:** Smart Home Automation
+### Project 1: Smart Solar Light System
+- **Description:** Developed a smart solar light system using STM32 microcontrollers and various sensors.
+- **Technologies Used:** STM32, PCB Design, Embedded C
+- **Repository:** Smart Solar Light
 
-### Project 2: Industrial IoT Gateway
-- **Description:** Designed and implemented an Industrial IoT gateway for monitoring and controlling industrial equipment.
-- **Technologies Used:** Raspberry Pi, Python, MQTT, Modbus
-- **Repository:** Industrial IoT Gateway
-
-### Project 3: Wearable Health Monitoring Device
-- **Description:** Created a wearable device for continuous health monitoring using MSP430 microcontroller.
-- **Technologies Used:** MSP430, Bluetooth, PCB Design, Embedded C
-- **Repository:** Wearable Health Monitor
-
+### Project 2: Smart Lamp
+- **Description:** Designed and implemented an smart lamp and controlling brightness using capacitive touch.
+- **Technologies Used:** PCB Design, Capacitive touch
+- **Repository:** Touch Controll Lamp
 
 <!-- ### Socials -->
 
